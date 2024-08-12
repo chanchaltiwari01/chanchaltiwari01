@@ -6,7 +6,6 @@ Hi, I’m [@chanchaltiwari01](https://github.com/chanchaltiwari01)
 
 - 👀 I’m interested in VLSI Design.
 - 🌱 I’m currently learning Verilog, SystemVerilog, UVM, AMBA, and PCIe.
-- 💞️ I’m looking to collaborate on my project involving an ABP to AHP bridge.
 
 ## How to Reach Me
 
