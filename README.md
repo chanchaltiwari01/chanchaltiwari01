@@ -4,7 +4,7 @@ Hi, I’m [@chanchaltiwari01](https://github.com/chanchaltiwari01)
 
 ## About Me
 
-- 👀 I’m Hardware design Trainee at Agnisys. 
+- 👀 I’m Associate Research and Development engineer at Agnisys. 
 -  🌱 I’m currently working on Verilog, SystemVerilog, UVM, AMBA, and PCIe.
 
 ## How to Reach Me
